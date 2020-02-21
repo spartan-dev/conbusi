@@ -116,6 +116,8 @@ select,
 textarea {
   font: inherit;
   margin: 0;
+  -webkit-appearance: listbox
+
 }
 optgroup {
   font-weight: 700;

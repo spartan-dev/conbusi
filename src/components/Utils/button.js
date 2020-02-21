@@ -21,6 +21,9 @@ const  Button = styled.button`
   transition: 0.5s;
   cursor: pointer;
   letter-spacing: 2px;
+  margin: 0;
+    font-size: inherit;
+    line-height: inherit;
   &:hover{
     background: #5DB2FF;
   color: #fff !important;
