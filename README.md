@@ -19,7 +19,10 @@ Inicia proyecto con npm start
 1.  **Start developing.**
 
 Ramas de trabajo    Master dev kain y rick
-
+1.   **Componentes de uso comun** 
+      Container 
+      Row
+      Column
 ## 💫 Deploy
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
