@@ -1,18 +1,13 @@
 import React from "react"
 import FooterArea from './Utils/footerComponents/footerArea'
-import Container from './Utils/headerComponents/container'
+import FooterTop from './Utils/footerComponents/footerTop'
 
 const Footer = () => (
   <footer>
     <FooterArea>
+      <FooterTop />
       <div style={{padding:'12px 0', backGround:'#fff'}}>
-        <Container>
-          <div className='col-xl-5 col-md-5'>
-            <div className='hader_left'>
               <p>Welcome to NEW consulting service</p>
-            </div>
-          </div>
-        </Container>
       </div>
     </FooterArea>
   </footer>
